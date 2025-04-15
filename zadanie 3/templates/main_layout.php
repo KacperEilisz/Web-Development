@@ -12,14 +12,11 @@
 </head>
 <body>
 
-    <!-- Tu może być np. navbar -->
 
-    <!-- Miejsce na dynamiczną zawartość -->
     <main>
         <?php include $content; ?>
     </main>
 
-    <!-- JS z szablonu -->
     <script src="/assets/js/breakpoints.min.js"></script>
     <script src="/assets/js/browser.min.js"></script>
     <script src="/assets/js/jquery.min.js"></script>
